@@ -1,4 +1,4 @@
-package LoveAndPetShop;
+package shop;
 
 /**
  * 猫猫类的创建

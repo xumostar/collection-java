@@ -1,4 +1,4 @@
-package LoveAndPetShop;
+package shop;
 
 /**
  * 中华田园犬类的创建

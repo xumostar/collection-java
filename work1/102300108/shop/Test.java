@@ -1,4 +1,4 @@
-package LoveAndPetShop;
+package shop;
 import java.time.LocalDate;
 
 /**

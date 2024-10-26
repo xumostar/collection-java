@@ -1,4 +1,4 @@
-package LoveAndPetShop;
+package shop;
 
 /**
  * 动物未找到异常类的创建

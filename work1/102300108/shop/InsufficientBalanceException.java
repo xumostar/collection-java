@@ -1,4 +1,4 @@
-package LoveAndPetShop;
+package shop;
 
 /**
  * 余额不足异常类的创建
